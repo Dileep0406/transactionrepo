@@ -1,4 +1,5 @@
 #!bin/bash
 echo hi
-echo hai
+echo bye
 echo welcome
+echo hai
